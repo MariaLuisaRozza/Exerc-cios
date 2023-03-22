@@ -1,6 +1,6 @@
 // conversor de temperatura em kelvin, celsius, fahrenheit e newton.
 
-const kelvin= 293;
+const kelvin = 293;
 console.log(kelvin);
 
 let celsius = kelvin - 273;
